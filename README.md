@@ -1,4 +1,5 @@
 ## Hi there 👋
+Welcome to my personal portfolio! I started my journey as an aspiring engineer in 2022, in 2024 I settled into electrical and I now (summer of 2025) want to track my progress with different projects and provide resources that have helped me through my learning journey. Im still exploring the vastly different areas of this practice so my projects may seem all over the place for a while. My long term goal is to curate and be a part of a group of highly specialized indidviduals, where we can make our wildest dreams a reality. 
 
 <!--
 **NataliaArosemena/NataliaArosemena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
