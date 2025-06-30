@@ -9,16 +9,29 @@ SMART Moisture Sensor: https://github.com/NataliaArosemena/moisture-sensor
 
 ## Potential Future Projects
 Laser Tripwire Alarm
+
 Solar Charger + Solar Cell Characterization
+
 Audio Spectrum Visualizer with LEDs
+
 Line Following Robot
+
+Drone(duh)
+
 Magnetic Leviation Coil (Hall Effect)
+
 Digital Thermometer with Display
+
 Touch Sensitive Synth Pad
+
 Flexible Wearable Sensor (Posture Monitor) w small shock hehe
+
 Electrochemical Water Sensor
+
 TEG
+
 Piezo Energy Harvester
+
 <!--
 **NataliaArosemena/NataliaArosemena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
